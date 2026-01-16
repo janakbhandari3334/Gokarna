@@ -1,0 +1,12 @@
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#222;
+
+    /* Background image from Google Drive */
+    background-image: url('https://drive.google.com/uc?export=view&id=1IpwK4PYmvqmC6t96TuHGYW1A4bbnYSl3');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
